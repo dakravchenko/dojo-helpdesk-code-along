@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import './globals.css'
-import { Inter } from 'next/font/google'
+import { Rubik } from 'next/font/google'
 import Navbar from './components/Navbar'
 
 const rubik = Rubik({ subsets: ['latin'] })
